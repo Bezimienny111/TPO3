@@ -1,0 +1,22 @@
+{
+Muzyka: {
+	class: java.lang.String
+	value: Bezi Uzyt
+}
+Historia: {
+	class: java.lang.String
+	value: ""
+}
+sport: {
+	class: java.lang.String
+	value: ""
+}
+fun: {
+	class: java.lang.String
+	value: " Bezi Uzyt"
+}
+Komputer: {
+	class: java.lang.String
+	value: Uzyt
+}
+}
